@@ -2,10 +2,12 @@
 
 html {
     font-size: 62.5%;
+    max-width: 1440px;
 }
 
 body {
     background: var(--main-color) url(../images/bg-desktop.svg) no-repeat;
+    background-size: cover;
     height: 100vh;
 }
 
